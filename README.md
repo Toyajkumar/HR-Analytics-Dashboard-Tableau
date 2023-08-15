@@ -18,7 +18,7 @@ Welcome to the **HR Analytics Dashboard - Tableau** project repository. This pro
 
 ## Screenshots
 
-![Dashboard](screenshots/HR_Dashboard.png)
+![Dashboard](HR_Dashboard.png)
 
 
 ## Project Highlights
