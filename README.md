@@ -20,6 +20,7 @@ Welcome to the **HR Analytics Dashboard - Tableau** project repository. This pro
 
 ![Dashboard](screenshots/HR_Dashboard.png)
 
+
 ## Project Highlights
 
 - **HR Insights**: The Tableau dashboard visualizes and presents HR-related insights, such as employee demographics, attrition rates, performance metrics, etc.
